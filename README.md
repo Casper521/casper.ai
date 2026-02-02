@@ -1,22 +1,13 @@
 
-# casper.ai
+# casper.ai v2 (No API)
 
-A simple AI Q&A website.
+Features:
+- JSON knowledge base
+- Better math & logic
+- Session memory
+- Chat bubbles UI
+- Commands (/help, /about, /mode)
+- Personality modes
 
-## Features
-- Clean chat-style UI
-- Node.js backend (Express)
-- OpenAI-compatible API usage (set your own API key)
-
-## Setup
-
-```bash
-npm install
-export OPENAI_API_KEY="your_api_key_here"
-node server.js
-```
-
-Then open http://localhost:3000 in your browser.
-
-## Deploy
-- Works on Vercel, Render, Railway, or any Node-compatible host.
+## Run
+Open index.html in any browser.
